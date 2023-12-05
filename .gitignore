@@ -1,0 +1,5 @@
+inputs/
+.mypy_cache/
+.vscode/
+env/
+__pycache__/
